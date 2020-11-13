@@ -22,7 +22,7 @@
     "react-paginate": "^6.3.0",
     "react-redux": "^7.2.2",
     "react-scripts": "^3.2.0",
-    "typescript": "3.5.3"
+    "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",

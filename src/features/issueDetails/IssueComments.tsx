@@ -9,7 +9,7 @@ import styles from './IssueComments.module.css'
 
 interface ICLProps {
   issue: Issue
-  comments: Comment[]
+  comments: Comment[] | undefined
 }
 
 interface ICProps {
